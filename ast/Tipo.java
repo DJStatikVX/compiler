@@ -1,0 +1,15 @@
+/**
+ * @generated VGen (for ANTLR) 1.7.2
+ */
+
+package ast;
+
+public interface Tipo extends AST {
+	
+	public int getTamano();
+	
+	char getSufijo();
+	
+	String getNombreMAPL();
+	
+}
